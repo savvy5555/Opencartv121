@@ -1,0 +1,55 @@
+2026-08-07 13:04:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-07 13:04:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-07 13:04:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-07 13:04:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-07 13:04:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\savvy\AppData\Local\Temp\testng-eclipse-571087961\testng-customsuite.xml
+
+2026-08-07 13:04:32 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-08-07 13:04:36 INFO  TC001_AccountRegistrationTest:23 - Starting TC001_AccountRegistrationTest
+2026-08-07 13:04:36 INFO  TC001_AccountRegistrationTest:28 - clicking on home page
+2026-08-07 13:04:36 INFO  TC001_AccountRegistrationTest:32 - clicking on register
+2026-08-07 13:04:43 INFO  TC001_AccountRegistrationTest:37 - providing information
+2026-08-07 13:04:48 INFO  TC001_AccountRegistrationTest:58 -  finished TC001_AccountRegistrationTest
+2026-08-07 13:04:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@878537d: 55 ms
+2026-08-07 13:04:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@4d0b0fd4: 6 ms
+2026-08-07 13:04:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@58cec85b: 0 ms
+2026-08-07 13:04:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4d23015c: 6 ms
+2026-08-07 13:04:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@773c0293: 7 ms
+2026-08-07 13:04:49 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@55b8dbda: 0 ms
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-08-07 14:45:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\savvy\AppData\Local\Temp\testng-eclipse--1314924385\testng-customsuite.xml
+
+2026-08-07 14:45:21 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-08-07 14:45:25 INFO  TC001_AccountRegistrationTest:23 - Starting TC001_AccountRegistrationTest
+2026-08-07 14:45:25 INFO  TC001_AccountRegistrationTest:28 - clicking on home page
